@@ -1,0 +1,1 @@
+pub type Receiver<T> = std::sync::mpsc::Receiver<T>;
